@@ -20,7 +20,7 @@ Company.Value.After.$=$4,000,000
 
 Round.Share.Title=Series A
 
-OriginalPurchasePrice.$=7.00
+OriginalPurchasePrice.$=9.00
 
 DividendStart.Date.YMD=2019-01-30
 
